@@ -8,6 +8,28 @@
 | 墨线赛璐璐童话 | [project](demos/02-ink-storybook/project/) | [完整包](demos/02-ink-storybook/builds/Windows.zip) | [完整包](demos/02-ink-storybook/builds/Web.zip) | [目录](demos/02-ink-storybook/) |
 | 万圣节 · 南瓜月夜 | [project](demos/03-halloween/project/) | [完整包](demos/03-halloween/builds/Windows.zip) | [完整包](demos/03-halloween/builds/Web.zip) | [目录](demos/03-halloween/) |
 
+## 三个版本实机截图
+
+以下均为游戏运行画面，以谷地场景展示三个版本的美术差异。
+
+### 01 · 原版：低多边形田园
+
+![原版实机截图：柔和绿色田园、原版角色与小屋](demos/01-original/previews/regions/0-meadow.png)
+
+[查看原版五个场景的截图](demos/01-original/previews/regions/)
+
+### 02 · 墨线赛璐璐童话版
+
+![墨线童话版实机截图：深色描边、分层阴影与鲜明色块](demos/02-ink-storybook/previews/regions/0-meadow.png)
+
+[查看墨线版五个场景的截图](demos/02-ink-storybook/previews/regions/)
+
+### 03 · 万圣节：南瓜月夜
+
+![万圣节版实机截图：小骷髅、南瓜灯、幽灵与巫师帽小屋](demos/03-halloween/previews/regions/0-meadow.png)
+
+[查看万圣节版五个场景的截图](demos/03-halloween/previews/regions/)
+
 ## 完整下载
 
 先安装 Git 和 Git LFS，然后执行：
