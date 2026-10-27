@@ -1,0 +1,167 @@
+{
+  "edition": "Halloween · Pumpkin Moonlight",
+  "date": "2026-10-26",
+  "cloud_assets": [
+    {
+      "id": "hw-pumpkin",
+      "operation": "image-to-3D",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4389962",
+      "quoted_credits": 1,
+      "runtime_path": "res://art/assets/runtime/hw-pumpkin.glb",
+      "runtime_sha256": "55ed866eb9abe3060dd30178342350f23844d93d3daa49d2579d811866589c8f",
+      "raw_sha256": "d04f6ffa60cde0679823041459d39405251aaf0bfa3db4a51c67ef52232e031b"
+    },
+    {
+      "id": "hw-ghost",
+      "operation": "image-to-3D",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4389965",
+      "quoted_credits": 1,
+      "runtime_path": "res://art/assets/runtime/hw-ghost.glb",
+      "runtime_sha256": "3bc9c960b6e7598cab932ffaf8d45c9ad7ed3b28ff8a75ef1558b62a111ed930",
+      "raw_sha256": "5bab9c5f5e8cf0d6d24c4a7db99a3797ee8d3cb00f62d1851f0dfd9d80ce4f18"
+    },
+    {
+      "id": "hw-cauldron",
+      "operation": "image-to-3D",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4389968",
+      "quoted_credits": 1,
+      "runtime_path": "res://art/assets/runtime/hw-cauldron.glb",
+      "runtime_sha256": "a92f289830538f296a2ab14ee7bb5d71dee0217f2710df762d5cbacf6e085282",
+      "raw_sha256": "b445d195cfb6165c8d70b60659cfadaaea6dad68b3de7179fe895127475c625b"
+    },
+    {
+      "id": "hw-candy",
+      "operation": "image-to-3D",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4389971",
+      "quoted_credits": 1,
+      "runtime_path": "res://art/assets/runtime/hw-candy.glb",
+      "runtime_sha256": "552ba0fe8e649e3f0d45599ac7652af481dd7dc5a00a75314c5012de7ae5c9f3",
+      "raw_sha256": "09b2a1125015248d8584c7268950faefd72a232352817b7c5968be67797c5639"
+    },
+    {
+      "id": "meadow-tree",
+      "operation": "material-transfer",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4390127",
+      "quoted_credits": 19,
+      "runtime_path": "res://art/assets/runtime/meshy-meadow-tree.glb",
+      "runtime_sha256": "32e52f442c678a2d3c452ad6863b0b12a03d002b0a1dff986a3e489b9578f693",
+      "raw_sha256": "a193d473c6e128842d316cf073f993b214f107897cac1cf63c01ce57d1c2bc0d",
+      "geometry": "Original geometry/accessor bytes verified identical."
+    },
+    {
+      "id": "forest-tree",
+      "operation": "material-transfer",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4390132",
+      "quoted_credits": 19,
+      "runtime_path": "res://art/assets/runtime/meshy-forest-tree.glb",
+      "runtime_sha256": "08e2169d875cc31b7b13d9fa7df88be1f1c9d1418128458b399a0d3de9484e9d",
+      "raw_sha256": "9551b84830dcf64add035a11ec3036310ec07ce90e18835376b5e4539d968115",
+      "geometry": "Original geometry/accessor bytes verified identical."
+    },
+    {
+      "id": "maple-tree",
+      "operation": "material-transfer",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4390137",
+      "quoted_credits": 19,
+      "runtime_path": "res://art/assets/runtime/meshy-maple-tree.glb",
+      "runtime_sha256": "f9e252fd6330d52df15366398c83eab055b0d92a05009f6fc2a048e62e54d4f5",
+      "raw_sha256": "e0f8a8a6ff587ab5c8dbe511db06cbf2f8f437378394699b48892f6faa98000c",
+      "geometry": "Original geometry/accessor bytes verified identical."
+    },
+    {
+      "id": "moon-tree",
+      "operation": "material-transfer",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4390142",
+      "quoted_credits": 19,
+      "runtime_path": "res://art/assets/runtime/moon-tree-pruned-v091.glb",
+      "runtime_sha256": "7dae6cb9d1ea0ef9df44247ad8b11406e193330587d089bbc862dd75e329a560",
+      "raw_sha256": "d47f88ea8c7fbf35a787bf1244d8e0949f4a42ff6932acb4823c10cdd18a9bfc",
+      "geometry": "Original geometry/accessor bytes verified identical."
+    },
+    {
+      "id": "cottage",
+      "operation": "material-transfer",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4390223",
+      "quoted_credits": 19,
+      "runtime_path": "res://art/assets/runtime/cottage.glb",
+      "runtime_sha256": "a5017ec5aaaaa3638e7ab22d5c13fa1b3bb0bc17861785934654990003b7cbc4",
+      "raw_sha256": "b50813b23ba161b8bd6acc4e64605f1c780cbf4e8a486aaaede383ce709ce238",
+      "geometry": "Original geometry/accessor bytes verified identical."
+    },
+    {
+      "id": "moon-shrine",
+      "operation": "material-transfer",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4390228",
+      "quoted_credits": 19,
+      "runtime_path": "res://art/assets/runtime/moon-shrine.glb",
+      "runtime_sha256": "3fe1933939a4e804dab25a3717a2b6ea3eb4254bfb29811535a3f62796bd1309",
+      "raw_sha256": "c096b95ae95030f4003140946d4a18b53189300df1660bc85ab398bee1bf6e38",
+      "geometry": "Original geometry/accessor bytes verified identical."
+    },
+    {
+      "id": "autumn-ground",
+      "operation": "material-transfer",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4390233",
+      "quoted_credits": 19,
+      "runtime_path": "res://art/assets/runtime/meshy-autumn-ground.glb",
+      "runtime_sha256": "f7e52f15e3b0a72c1cb524367a27ab4a220e59ae62f0ba7b5e95e0c4258391db",
+      "raw_sha256": "b949335ed9298529b3c43dbe21ad86b265369856d4722d4785b0116de51d86de",
+      "geometry": "Original geometry/accessor bytes verified identical."
+    },
+    {
+      "id": "stars-ground",
+      "operation": "material-transfer",
+      "provider": "Lux3D",
+      "region": "cn",
+      "task_id": "4390238",
+      "quoted_credits": 19,
+      "runtime_path": "res://art/assets/runtime/meshy-stars-ground.glb",
+      "runtime_sha256": "43881754abaf0775d48f839caa87f57401a208e522b0091cd4780b3ccf0eea77",
+      "raw_sha256": "0711fc3f2acd0ce204b3924698f36c368a3643bfbf32ba686a57d3bce1143226",
+      "geometry": "Original geometry/accessor bytes verified identical."
+    }
+  ],
+  "cloud_quoted_credits_this_edition": 156,
+  "cumulative_Lux_quote_commitment": 1222,
+  "local_skeleton": {
+    "runtime_path": "res://art/assets/runtime/hw-skeleton.glb",
+    "sha256": "d821e9cf934d81fd26eafe2c2d4c204eca94787c4a8b25059d609562a2ddcbc7",
+    "author": "Locally authored new Blender geometry; existing Lux52bone rig and5preset actions retained.",
+    "skins": 1,
+    "joints": 52,
+    "clips": 5
+  },
+  "local_scene_work": [
+    "All5biome ground palettes",
+    "Sky/moon/stars/light",
+    "Water colors",
+    "Witch-hat cottage roof",
+    "Garlands",
+    "Bats",
+    "Placements and planting-clearance"
+  ],
+  "retained": "Five-biome layout, paths, gates, farming, pet behavior, existing scenery geometry and prior imported base art.",
+  "human_art_acceptance": "pending"
+}

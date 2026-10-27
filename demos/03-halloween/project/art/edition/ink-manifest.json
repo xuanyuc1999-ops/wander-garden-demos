@@ -1,0 +1,343 @@
+{
+  "style": "Ink Cel Storybook",
+  "generated_materials": [
+    {
+      "asset_id": "meadow-tree",
+      "runtime_path": "res://art/assets/runtime/meshy-meadow-tree.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4383668",
+      "quoted_credits": 19,
+      "source_sha256": "0ed2caa6c2ae6f4db04b57154ae50768526bedc7d6e362f1709556279561d4cf",
+      "runtime_sha256": "8fb860bcf70f9e21729276aed36a653fdd97344297d6e3885f757ce563f356b0",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "forest-tree",
+      "runtime_path": "res://art/assets/runtime/meshy-forest-tree.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385026",
+      "quoted_credits": 19,
+      "source_sha256": "419951008f3bbeeb34741c15946182d4b63c9ce47c64ef0289150aa28dc6f881",
+      "runtime_sha256": "0f959bf30f396fc5d11ca372dde5691bd284f3d16e412282bcdf08e75ae3bfba",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "maple-tree",
+      "runtime_path": "res://art/assets/runtime/meshy-maple-tree.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385031",
+      "quoted_credits": 19,
+      "source_sha256": "551cb6209647ae16e55c739e893771e2ce1172d78c615cdbb9791d083b5481c6",
+      "runtime_sha256": "e13dec03f8d5e3b6de8af67122145200de1afc7758dd65c687de42b350a764da",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "moon-tree",
+      "runtime_path": "res://art/assets/runtime/moon-tree-pruned-v091.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385032",
+      "quoted_credits": 19,
+      "source_sha256": "3aea36175d76026d2fc839f6643a2f94bcf07eb56b4fff947f32d4f153f7adbf",
+      "runtime_sha256": "c6caaa22447aff2c8f6b402004c17e219684e480bded83d11513ecebaae79434",
+      "geometry_preservation": "Static Lux output repacked UV/material groups. Every world-space triangle matched the source at0.1mm precision; retained the actual generated UV/material output. Source original remains preserved."
+    },
+    {
+      "asset_id": "cottage",
+      "runtime_path": "res://art/assets/runtime/cottage.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4383669",
+      "quoted_credits": 19,
+      "source_sha256": "0a424e25c96753429f755756cfa26d6b4bf06ebdac4007b8cfcce7bd171fbff6",
+      "runtime_sha256": "483813a3044d7ebb55ff67240207298899f25a0cf1ec2845fc5cc795cd7f3424",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "basket",
+      "runtime_path": "res://art/assets/runtime/basket.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385042",
+      "quoted_credits": 19,
+      "source_sha256": "26bbdfb6c5be1293467ec7d5c1edf5b798839268bec85cd4db47b22e16405909",
+      "runtime_sha256": "b69b659f5b9aa9e776178e6b47166d2a4a0b87b0e004ed23649e2c96813ea425",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "signpost",
+      "runtime_path": "res://art/assets/runtime/signpost.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385049",
+      "quoted_credits": 19,
+      "source_sha256": "f4f4d5650db805a1b174bf90e44c77e700115e34be818e15706f3226c3d78ab0",
+      "runtime_sha256": "e116db271ff09d6fb24a0bc3a374ad0e40b694db0589ab946d443c3ea347eba2",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "wood-fence",
+      "runtime_path": "res://art/assets/runtime/wood-fence.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385054",
+      "quoted_credits": 19,
+      "source_sha256": "30247347d4d5e93719a2d173efeb8693155b739a2ffb0d25ca471e98f8d69783",
+      "runtime_sha256": "5e144e5e55665d9b24760c7c8a900ef96f3e26204212e7fbe046c5694976a078",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "stone-arch",
+      "runtime_path": "res://art/assets/runtime/stone-arch-wide-r2.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385057",
+      "quoted_credits": 19,
+      "source_sha256": "48744c1271e02c20c9cf32fad74294875c0c0e3c4c7d30282342138f0cae8ee1",
+      "runtime_sha256": "d2deee094dbd1b591d5b1cf2fddb7b7f664a1544b8d9db362991e5a2bd30a257",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "rock-cluster",
+      "runtime_path": "res://art/assets/runtime/rock-cluster.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385064",
+      "quoted_credits": 19,
+      "source_sha256": "846e761b21a94b0012feb1f61f0d074b72c95a34c0dd63348d0925e7b2bf5b75",
+      "runtime_sha256": "2454160411956e4a7394f94199c2286d8a0cbfde2fafb8ef52adb3a5bfb9c47d",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "moss-rock",
+      "runtime_path": "res://art/assets/runtime/moss-rock.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385069",
+      "quoted_credits": 19,
+      "source_sha256": "e2d1eab8f4605ca40867b8ed63c3801e15fdd18f4499823caefb7a4af2a934c0",
+      "runtime_sha256": "43088f63e03b4d8c82e33613e7a276f3306d1c4f3fd370312ef0ae5377e86453",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "salt-rock",
+      "runtime_path": "res://art/assets/runtime/salt-rock.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385072",
+      "quoted_credits": 19,
+      "source_sha256": "4997e1dadff947e7981e47f110a09a93acc85c89e73998efddd125de5563ee6b",
+      "runtime_sha256": "2aeeac21a2ab7cdb8d041a18f824da3cd598f4a66e809470b5a953087dd64478",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "shrub",
+      "runtime_path": "res://art/assets/runtime/shrub.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385081",
+      "quoted_credits": 19,
+      "source_sha256": "4fc31549ff3937b9b3aa2d9bf7ff02b20e26505f10a111e877fe6858ecc94845",
+      "runtime_sha256": "b52f8e47b53e60ac7ac99853bab3a0d9b430212b8ba8797665f0ad433331576b",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "grass-flower",
+      "runtime_path": "res://art/assets/runtime/grass-flower.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385085",
+      "quoted_credits": 19,
+      "source_sha256": "ed4f1f195ce0761002da1727a83e1c3b222eebf86376295d703ff62e64ea03cb",
+      "runtime_sha256": "d040891506d0c7c898c1e2b80320721a262efee8863e5517da6980418374cba1",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "forest-flora",
+      "runtime_path": "res://art/assets/runtime/forest-flora.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385096",
+      "quoted_credits": 19,
+      "source_sha256": "d8826d5afca5895fec9be85573238d5199340f1974db28d6ecb52662f3c1b7c2",
+      "runtime_sha256": "e2d74b589dcbe0de822c0da579bbe96748973e10cc5df29f0187de5cc2ac4d28",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "salt-reeds",
+      "runtime_path": "res://art/assets/runtime/salt-reeds.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385099",
+      "quoted_credits": 19,
+      "source_sha256": "9660df4d7bcc1e93ae0ff7c17e8090ca72dc8eb4731ca8b1a330d74c3363a823",
+      "runtime_sha256": "0faa4d347bd5efd4f2b37e7ad5656ce6e2a5bd0ea877a5811736518574010db5",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "autumn-bush",
+      "runtime_path": "res://art/assets/runtime/autumn-bush.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385107",
+      "quoted_credits": 19,
+      "source_sha256": "c878f80dcbb98b77b88eb4870f58702205a5a7f2a5efa05166c5d9775db00038",
+      "runtime_sha256": "451a0297354039dfdaa5e6246f4d488a3fcc56bd049b16dc490939249dc775d6",
+      "geometry_preservation": "Static Lux output repacked UV/material groups. Every world-space triangle matched the source at0.1mm precision; retained the actual generated UV/material output. Source original remains preserved."
+    },
+    {
+      "asset_id": "star-flower",
+      "runtime_path": "res://art/assets/runtime/star-flower.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385114",
+      "quoted_credits": 19,
+      "source_sha256": "bbdbdc54df4ad9fd8fc8527250ec4dd17ab7d3a69e0bf042ede118dbcda0e8db",
+      "runtime_sha256": "b036274777f3deeef5cf1dc7e831acef5e7e481d1060760099b5b784f20f21f4",
+      "geometry_preservation": "Static Lux output repacked UV/material groups. Every world-space triangle matched the source at0.1mm precision; retained the actual generated UV/material output. Source original remains preserved."
+    },
+    {
+      "asset_id": "carrot",
+      "runtime_path": "res://art/assets/runtime/carrot.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385121",
+      "quoted_credits": 19,
+      "source_sha256": "f435b2e16c78cd8b4c983dd7324fceb1b4d68f4a3c7e850b31badca7fa18dca3",
+      "runtime_sha256": "57bc673c87b8612a1b332ced0347ee2fcbd14a07a674c8adb11f812eb806e0bb",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "crystal-flower",
+      "runtime_path": "res://art/assets/runtime/crystal-flower.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385129",
+      "quoted_credits": 19,
+      "source_sha256": "bb562545cd463db95910f9b8e7bef44181f936c81af77d580a325dfe3a79e5cf",
+      "runtime_sha256": "c9a24c86bd1f8eb1bfb4653ee007c11b29c5a8e8c9d6e4b7d2a6084e035c814c",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "pear-crop",
+      "runtime_path": "res://art/assets/runtime/pear-crop.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385134",
+      "quoted_credits": 19,
+      "source_sha256": "506a0f7afebbeb8410cc3345f355cdce8dfb256763a99b656de465926860b6e2",
+      "runtime_sha256": "f8d20ad318cdab982eb8ab3a31053a0e32866628b7093504623643ea0064ed80",
+      "geometry_preservation": "Static Lux output repacked UV/material groups. Every world-space triangle matched the source at0.1mm precision; retained the actual generated UV/material output. Source original remains preserved."
+    },
+    {
+      "asset_id": "moon-shrine",
+      "runtime_path": "res://art/assets/runtime/moon-shrine.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385140",
+      "quoted_credits": 19,
+      "source_sha256": "5ad36fe0ae29f469fb601d4c043688b9dfc0b0148786980b6c7814f3f86868be",
+      "runtime_sha256": "df534caff50a54d48a6c6dd48321a20aa1ef8bce0cd0d87788749af4526ef79d",
+      "geometry_preservation": "Static Lux output repacked UV/material groups. Every world-space triangle matched the source at0.1mm precision; retained the actual generated UV/material output. Source original remains preserved."
+    },
+    {
+      "asset_id": "rabbit",
+      "runtime_path": "res://art/assets/runtime/rabbit-motion-v04.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4383674",
+      "quoted_credits": 19,
+      "source_sha256": "93659069e2d84ad5a419ac35e020249f4212d9519ce27c79ed70487eae78dd9e",
+      "runtime_sha256": "43f243d400709119d7831ed4b7ea6914569c2167c0595fc227a4dc1c1230b0bb",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "fox",
+      "runtime_path": "res://art/assets/runtime/fox.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385727",
+      "quoted_credits": 19,
+      "source_sha256": "ea7bee0fa311fe293525289db9d63fc0ae616f59c7a5486416a8ba89f62111d8",
+      "runtime_sha256": "8a2a2ba3fb45665b6687bb5efb9714a6020745a279981dcb1f231b9f3767cc24",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "otter",
+      "runtime_path": "res://art/assets/runtime/otter.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385732",
+      "quoted_credits": 19,
+      "source_sha256": "12a6c1bec24b097a0aed00ca17f650d0363336748f5c32859fa26437b909245e",
+      "runtime_sha256": "104523881a03c61c07c57dd9cf995ca96a7d69183a71835e4ab2ca691b660e2b",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "squirrel",
+      "runtime_path": "res://art/assets/runtime/squirrel.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385737",
+      "quoted_credits": 19,
+      "source_sha256": "ed114dba4ebd5edc699b2968a632b4b1b3b360c7a5cf8176d4edbea118ff1e1f",
+      "runtime_sha256": "e7a81ace65d1ac45959d24880ca41d4c3482db7b2735787fdaec9ac4bc09a6bc",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "firefly-beast",
+      "runtime_path": "res://art/assets/runtime/firefly-beast.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385742",
+      "quoted_credits": 19,
+      "source_sha256": "2efa863f4e71d2b244fecd98f65ceffd7e428af0bf60a634c16a4f6f7cea9f48",
+      "runtime_sha256": "2804f27d984613fd281a0d992768c1c99b858b70213bf1b877583c26847d385b",
+      "geometry_preservation": "Matched every source/donor world triangle; transferred Lux atlas UVs with vertex seam splitting. Copied original local positions/normals/joints/weights per corner; original node/skin/animation definitions unchanged. No static replacement of the animated companion."
+    },
+    {
+      "asset_id": "traveler",
+      "runtime_path": "res://art/assets/runtime/traveler-lux-presets.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385747",
+      "quoted_credits": 19,
+      "source_sha256": "ba954a27cba5102d5a6e47164883f4e21a301ba462b9d45a2e952ac3fe2756db",
+      "runtime_sha256": "23e2f78a087472d12180e7faf0913054f9d8f905a6f8d3170c0f626a810b8bcf",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "autumn-ground",
+      "runtime_path": "res://art/assets/runtime/meshy-autumn-ground.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385752",
+      "quoted_credits": 19,
+      "source_sha256": "18f73f1056fa22e868ae8e9bdcf3360f4001fe3b700266fadbf41fe11059ef84",
+      "runtime_sha256": "73ed6ab72cc2948bd9e8033b5b51ac44af1b2bba0da9e34041596a23a9b7d883",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    },
+    {
+      "asset_id": "stars-ground",
+      "runtime_path": "res://art/assets/runtime/meshy-stars-ground.glb",
+      "provider": "Lux3D",
+      "operation": "material-transfer",
+      "task_id": "4385757",
+      "quoted_credits": 19,
+      "source_sha256": "776a8f7edbed5aa74e56b5270c9a24117054e4bb5838dfd331bc3c59ef9df497",
+      "runtime_sha256": "070d028b25ec9cb5583a4edab7519f8eb46d434372b05fd4eeabca58e81e999e",
+      "geometry_preservation": "Matched exact positions/UVs; transferred actual Lux material/image resources onto original GLB. All original geometry/weights/joints/animation accessor bytes and skin/clip definitions verified unchanged."
+    }
+  ],
+  "local_rendering": [
+    "Godot cel lighting",
+    "scene-only ink outline pass",
+    "biome palette/sky/water matching"
+  ],
+  "cloud_credits_this_edition": 570,
+  "superseded_pastel_trial_credits": 57,
+  "human_art_acceptance": "pending"
+}

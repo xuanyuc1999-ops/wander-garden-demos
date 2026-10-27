@@ -1,0 +1,43 @@
+{
+  "invocation": {
+    "id": "traveler-sub2api-2026-10-22T06:41:10.104933+00:00",
+    "inputs": [
+      {
+        "root": "project",
+        "path": "art/shared/selected-concept.png",
+        "sha256": "3b8384a1ac5818a76ee0314ca5f6e555d2e1a0cb4d0e98e027f503a7a1ecf945"
+      }
+    ],
+    "output": {
+      "root": "project",
+      "path": "art/references/traveler-v1.png",
+      "sha256": "d63f6927a755676934d66104cd3d36ae6fbc24404f5db737e8800d43fe027df1"
+    },
+    "provider": "Sub2API",
+    "model": "gpt-image-2.5-flare",
+    "receipt_source": "C:\\Users\\01\\Documents\\ChatGPT\\New project\\wander-garden-workflow\\meadow-production\\references\\traveler-attempt.json",
+    "source_output_sha256": "d63f6927a755676934d66104cd3d36ae6fbc24404f5db737e8800d43fe027df1"
+  },
+  "derivation": {
+    "method": "Pillow alpha_composite over opaque white then80px white border; no threshold extraction, stretch, crop or content repair",
+    "source": {
+      "root": "project",
+      "path": "art/references/traveler-v1.png",
+      "sha256": "d63f6927a755676934d66104cd3d36ae6fbc24404f5db737e8800d43fe027df1"
+    },
+    "output": {
+      "root": "project",
+      "path": "art/references/traveler-model-v1.png",
+      "sha256": "95bb8b45806365f1012980b748b33783245bbfd71527c00d09c4173f4dce9f86"
+    },
+    "padding_pixels": 80,
+    "source_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      1414,
+      1414
+    ]
+  }
+}

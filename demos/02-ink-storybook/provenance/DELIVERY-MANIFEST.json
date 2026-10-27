@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-26",
+  "edition": "Ink Cel Storybook",
+  "status": "deliverable_pending_art_review",
+  "cloud_materials": 30,
+  "quoted_Lux_credits_this_edition": 570,
+  "human_art_acceptance": "pending",
+  "archives": [
+    {
+      "file": "WanderGarden-InkStorybook-Windows.zip",
+      "bytes": 248418243,
+      "sha256": "1778df5e3497d4b19237746997aa7da3fb60882a2167a265af9f941df4cc9955",
+      "crc": "pass",
+      "entries": 7
+    },
+    {
+      "file": "WanderGarden-InkStorybook-Web.zip",
+      "bytes": 111159586,
+      "sha256": "45426206869930f546b7817d2dfb4dd370d5086a5e7dd5915af0cd3b070ed661",
+      "crc": "pass",
+      "entries": 12
+    },
+    {
+      "file": "WanderGarden-InkStorybook-Source.zip",
+      "bytes": 668552413,
+      "sha256": "bf51ddb84e1aaf2bbbc1d2fe55e6c5b158b60bb1d0d15243b1c2e458e2df4558",
+      "crc": "pass",
+      "entries": 369
+    }
+  ],
+  "runtime_files": [
+    {
+      "file": "windows/WanderGarden.exe",
+      "sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562",
+      "bytes": 109268480
+    },
+    {
+      "file": "windows/WanderGarden.pck",
+      "sha256": "d4e9d67a07875099f1a519149b844c312572e8ede85f818f212d007aa22c90d6",
+      "bytes": 212814084
+    },
+    {
+      "file": "web/index.audio.position.worklet.js",
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+      "bytes": 2973
+    },
+    {
+      "file": "web/index.audio.worklet.js",
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+      "bytes": 7298
+    },
+    {
+      "file": "web/index.html",
+      "sha256": "55de600af317b6b12faac2a0328d5aa99129220cac6ad62fa264bd2032a09109",
+      "bytes": 5317
+    },
+    {
+      "file": "web/index.js",
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba",
+      "bytes": 279815
+    },
+    {
+      "file": "web/index.pck",
+      "sha256": "85ad8569ba009f915524cd827d7a4077bf5eb497d52df61c6e07c16dac81bb76",
+      "bytes": 101905652
+    },
+    {
+      "file": "web/index.png",
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+      "bytes": 21443
+    },
+    {
+      "file": "web/index.wasm",
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
+      "bytes": 39514754
+    }
+  ],
+  "evidence": [
+    {
+      "file": "verification/browser-check.json",
+      "sha256": "39934b7e769ea316c2733fe065eec18771dcf8d4ee9774b46e8f2104c62a47fb"
+    },
+    {
+      "file": "verification/delivery-benchmark.json",
+      "sha256": "e7284df82a29a27537a1763ce28daa766f6893dd04e2c013887bfb9b130a848a"
+    },
+    {
+      "file": "verification/delivery-biome.json",
+      "sha256": "d5ac8958b41f304fec3fbfc40ac07c9d7a5807afa0659a99d2640e2dd3e3b6c0"
+    },
+    {
+      "file": "verification/delivery-qa.json",
+      "sha256": "c46baa88bbea7e1e1f0d69b25b550cccfbe0bef88b4b2a3e858e5628759fbb52"
+    },
+    {
+      "file": "verification/delivery-source.json",
+      "sha256": "f656aab866e76bbb02e6d7727283cb7fcc0518e838b2898c4b37253081339cef"
+    },
+    {
+      "file": "verification/ink-manifest.json",
+      "sha256": "ea0124ab08a686d41dde28e35577f75b02d752995e9ca8e5a1ae35c9b883d323"
+    },
+    {
+      "file": "verification/web-derivation.json",
+      "sha256": "e35ccda61210318c6a74fb8f2659c98e11f0d36258fbec17708ba26dd8188757"
+    },
+    {
+      "file": "verification/source-audit-resolution.json",
+      "sha256": "3a0f3540202dc0f7e3dc154e45ed68015e7ab8fd9f7a2dc5bb1d0399832c5994"
+    }
+  ],
+  "preview": [
+    {
+      "file": "preview/before-after.jpg",
+      "sha256": "60d1076f6bcf62e16f9d40ee5da30f77a48157a94be8a86e52111615dbedae22"
+    },
+    {
+      "file": "preview/regions/0-meadow.png",
+      "sha256": "aa269a518edc7ef68d6cba71fdeb65e1c706ebe014a7c2cb7a8be59472f4603a"
+    },
+    {
+      "file": "preview/regions/1-forest.png",
+      "sha256": "398c8ad55c0975f302d1cf1f9d48cc2e43d9eabfc217049a48ba672bc38c6790"
+    },
+    {
+      "file": "preview/regions/2-salt.png",
+      "sha256": "120fa732fa3bc092bf00aa0a1135e8a1a8d127740fea8d0f652d9bfed3df1542"
+    },
+    {
+      "file": "preview/regions/3-autumn.png",
+      "sha256": "75734b09183d4d1c71bf0a1f2482897098fdd5a91c9a13ab78b60049bff94bf4"
+    },
+    {
+      "file": "preview/regions/4-stars.png",
+      "sha256": "a09c945dfd6163c3d48ffdce503bca0a21f3b4175d7a6ce46ed01be926df34fa"
+    },
+    {
+      "file": "preview/regions/capture.json",
+      "sha256": "215fbf61427070c11696fe3211394ea9984956304e77c98ecc22faaa82822382"
+    },
+    {
+      "file": "preview/web-bag.png",
+      "sha256": "9cafadd8da0f9acd0821d48738da0578278d581720b726b14b997c1c81f4827f"
+    },
+    {
+      "file": "preview/web-final.png",
+      "sha256": "898d83b87924a1581f8308cbd65166f3e7c25ec1ea924fc9f5978acd873ae8fa"
+    }
+  ]
+}

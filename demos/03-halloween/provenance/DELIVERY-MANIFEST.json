@@ -1,0 +1,171 @@
+{
+  "edition": "Halloween · Pumpkin Moonlight",
+  "date": "2026-10-26",
+  "status": "deliverable_pending_art_review",
+  "cloud_asset_count": 12,
+  "quoted_Lux_credits_this_edition": 156,
+  "archives": [
+    {
+      "file": "WanderGarden-Halloween-Windows.zip",
+      "bytes": 267021865,
+      "sha256": "57d56cc6a61e51dd547ef81da55e511c578111310e87d6a1496932a267577d7e",
+      "crc": "pass",
+      "entries": 7
+    },
+    {
+      "file": "WanderGarden-Halloween-Web.zip",
+      "bytes": 117117747,
+      "sha256": "c3083adcd7682fc630b27666830ed3e2e1bfb90f62d976e7dc327ee3828db62d",
+      "crc": "pass",
+      "entries": 12
+    },
+    {
+      "file": "WanderGarden-Halloween-Source.zip",
+      "bytes": 630653919,
+      "sha256": "c39b4dc636b266caee73b58d1dbffe3c8f9c7ae30de0fbc1e4711b70090efcbb",
+      "crc": "pass",
+      "entries": 358
+    }
+  ],
+  "runtime": [
+    {
+      "file": "windows/WanderGarden.exe",
+      "sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562",
+      "bytes": 109268480
+    },
+    {
+      "file": "windows/WanderGarden.pck",
+      "sha256": "79abebef1d29b59257447be7eefca357286601180e21f30232dc93f90b2d243e",
+      "bytes": 231474360
+    },
+    {
+      "file": "web/index.audio.position.worklet.js",
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8",
+      "bytes": 2973
+    },
+    {
+      "file": "web/index.audio.worklet.js",
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3",
+      "bytes": 7298
+    },
+    {
+      "file": "web/index.html",
+      "sha256": "0c50e427fa7f365fdbfe3c0db0e5d61b315bb07cb37e211081333c7a07495fd6",
+      "bytes": 5316
+    },
+    {
+      "file": "web/index.js",
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba",
+      "bytes": 279815
+    },
+    {
+      "file": "web/index.pck",
+      "sha256": "aaf9b2d7527a6da5707906329fa0b83f005e9191b88ce580581d844e54f89dfb",
+      "bytes": 107951608
+    },
+    {
+      "file": "web/index.png",
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e",
+      "bytes": 21443
+    },
+    {
+      "file": "web/index.wasm",
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
+      "bytes": 39514754
+    }
+  ],
+  "evidence": [
+    {
+      "file": "verification/browser-check.json",
+      "sha256": "ecef0a841f93df4dfc1080a00fc10bdf59b353106bdebb6421d16aaa1ab45a2e"
+    },
+    {
+      "file": "verification/halloween-manifest.json",
+      "sha256": "c04acd0045b158e12b178ac3fc785804920aa80fc8af25ea23d058c5a1142ec0"
+    },
+    {
+      "file": "verification/package-benchmark-first.json",
+      "sha256": "123096bda42c244b30696200197bcd5dda1c677d18347b85da25a9a635b71562"
+    },
+    {
+      "file": "verification/package-benchmark.json",
+      "sha256": "d2d924579e86202f7b69d0c344487018b2033a1db075a4955b82b62fcde070fd"
+    },
+    {
+      "file": "verification/package-qa.json",
+      "sha256": "f71a4b1cc1e7bbbb3f24f3eafeb9ffc8ce58f4b414145e550e8fb59001e94aec"
+    },
+    {
+      "file": "verification/package-resources.json",
+      "sha256": "ca0032a29d56e85c12403972c9897721d9157890add7b7faf2d5987b0cc66ecd"
+    },
+    {
+      "file": "verification/package-source.json",
+      "sha256": "d15f1309b38ce8f4f97bcc6730b0fc2785b79d75111464d2bf30482a4e62d03d"
+    },
+    {
+      "file": "verification/source-audit-resolution.json",
+      "sha256": "200ad4694552f675fdcfb340fe74f8f5cc11b9452eb726233cfc42133c11bd88"
+    },
+    {
+      "file": "verification/web-derivation.json",
+      "sha256": "8d10ef51b9b60d8757ef867a7a35907d69411a5ccdb3b6d288cb8f796d36a620"
+    },
+    {
+      "file": "preview/halloween-overview.jpg",
+      "sha256": "363f7a21387708cc3f3d89245d444bbcd1f0243f5a124ee0de9b247d2d721938"
+    },
+    {
+      "file": "preview/hero/skeleton-front.png",
+      "sha256": "977df8b642813642a92847c8296132f4892fb81296c69cf32a1786bd1aa189ba"
+    },
+    {
+      "file": "preview/hero/skeleton-jog.png",
+      "sha256": "786b245729d99387961c37a3dceb434e371110349b1b260fb89f19fa0e334c0e"
+    },
+    {
+      "file": "preview/hero/skeleton-side.png",
+      "sha256": "8e5eb1d05b1932a84b595bfd66da3cfff5e508ae0bcffbc55f8829375375e212"
+    },
+    {
+      "file": "preview/hero/skeleton-walk.png",
+      "sha256": "f482df0634a6f54e49d708d567488f3ce816e5e82eb1852b336cb749ba91d1da"
+    },
+    {
+      "file": "preview/regions/0-meadow.png",
+      "sha256": "a4a64479905a00357b6bec306cd93c1dc64f8c4e7f89dc1fcca8dcf94204f30b"
+    },
+    {
+      "file": "preview/regions/1-forest.png",
+      "sha256": "9655c7b1d52be5c5208635003bd9da28980f90a37bc9c89b74b1995a5c780748"
+    },
+    {
+      "file": "preview/regions/2-salt.png",
+      "sha256": "3948465f55aca0ff7745db7c410763d3a1fc2f656de9015b243c85820d072613"
+    },
+    {
+      "file": "preview/regions/3-autumn.png",
+      "sha256": "254d1d80618ef2a5884546c90eeb664318f0b0cae10f841ba01a8c351251a804"
+    },
+    {
+      "file": "preview/regions/4-stars.png",
+      "sha256": "c1ed4755af7682fdc576108bc4fec9292ba45b0b9a7be0bd75f72a43cac68501"
+    },
+    {
+      "file": "preview/regions/capture.json",
+      "sha256": "215fbf61427070c11696fe3211394ea9984956304e77c98ecc22faaa82822382"
+    },
+    {
+      "file": "preview/web-bag.png",
+      "sha256": "6f9958bd3aa216a3a05dfceac8143c8da67bdcb5aaf21dbacf58ec12e1e19749"
+    },
+    {
+      "file": "preview/web-final.png",
+      "sha256": "d55b330523cc0466396cfb7324f78c2d0043d21db62dc5f65db333603a34cf4d"
+    },
+    {
+      "file": "preview/web-reload-bag.png",
+      "sha256": "d68372725beb386c6393cbf2d9cf49eb001bf1d50468ea7ed603680087b833d7"
+    }
+  ]
+}

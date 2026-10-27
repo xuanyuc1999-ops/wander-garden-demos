@@ -1,0 +1,87 @@
+{
+  "engine": "Godot 4.7.2",
+  "entry": "main.tscn",
+  "tests": "120 input checks in independent-verified-qa.json",
+  "files": [
+    {
+      "path": "project.godot",
+      "sha256": "aefcc8ce911e519d13b2e10458da3432702d8f7fe4e06b7a38a5f911bc917fde"
+    },
+    {
+      "path": "main.tscn",
+      "sha256": "dd3c68c978ce961d5d493a10c4cda5247e159f88cae7ba74095079f073b5fd11"
+    },
+    {
+      "path": "scripts/art.gd",
+      "sha256": "cf113fe769b4f172aaa079b9458206223675c963fb096eafe64104a9a83f1280"
+    },
+    {
+      "path": "scripts/art.gd.uid",
+      "sha256": "a47787911b525e95a5f537da0a7b7608fd4215bb34c7522bbc8a064ed6df70f9"
+    },
+    {
+      "path": "scripts/chunk_streamer.gd",
+      "sha256": "01e8896897c3291457e6a379ff46835214b22fd7770619d2bb40e0c1fad010a4"
+    },
+    {
+      "path": "scripts/chunk_streamer.gd.uid",
+      "sha256": "59eda3f15b255c306de40c8b534bd5e0eea77f5b277de137da8825cc99da2e5f"
+    },
+    {
+      "path": "scripts/data.gd",
+      "sha256": "fc1333c17b5e6c320117abac2b2680ae4de113904641e8f6d193f159f8d1921e"
+    },
+    {
+      "path": "scripts/data.gd.uid",
+      "sha256": "3b596f099b665c4c169afa40dd39645fcff6e2cfc5188c164172600716f4fa3f"
+    },
+    {
+      "path": "scripts/game.gd",
+      "sha256": "60ca297b3ef649f3d156f377e2d6a1cb0a8f4659e1ecdc45eca2e5e97d2b8737"
+    },
+    {
+      "path": "scripts/game.gd.uid",
+      "sha256": "9898fe78b0b479a80837de28d2f02da3929edd3111362afdd2c4c4e00c95ace6"
+    },
+    {
+      "path": "scripts/hud.gd",
+      "sha256": "4e5fc1ca3752715d14203e276f1b5f3e02fce899634d31f96f5dd0fcf51f0d70"
+    },
+    {
+      "path": "scripts/hud.gd.uid",
+      "sha256": "ba764630235bc4da2f9533887f6799561dc611fed49947fe1730ab024a5fe5dc"
+    },
+    {
+      "path": "scripts/pet.gd",
+      "sha256": "4b3d181dd1a4e4c8d5a24f8432196b8634540e2fd27fd1e500811c5304c916fb"
+    },
+    {
+      "path": "scripts/pet.gd.uid",
+      "sha256": "07e407855a52ca737f4f34449158e88cd0f3a8e43b9b354ef44be52fed3d9873"
+    },
+    {
+      "path": "scripts/player.gd",
+      "sha256": "6a80780ec17fd7c1dd4b9aa8bc7c1c3960e54ddb3eedc89d696fdce2ba4c8d7f"
+    },
+    {
+      "path": "scripts/player.gd.uid",
+      "sha256": "8ffb86853e480e99d175c6d139d7e07f8ffd9fc4f124f42973872eb153c84465"
+    },
+    {
+      "path": "scripts/plot.gd",
+      "sha256": "1ea5707738c733ac5dce49ce63cdc5c5f5c1d2544d990c0caec19f17d6436908"
+    },
+    {
+      "path": "scripts/plot.gd.uid",
+      "sha256": "df2932a218c32b66c6969191b80c6f1230ad2e7980fbbd0d4491ac3d2fa7c4c2"
+    },
+    {
+      "path": "scripts/world.gd",
+      "sha256": "33f5f73efea12d0db16b9d6f41d9592e066793f89645be510a25d38e40bc0f8f"
+    },
+    {
+      "path": "scripts/world.gd.uid",
+      "sha256": "b3af67d5a8f014a1d54a838994dc7f72c53d4a2a5b5552cc73d02c9ae98face6"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "style_id": "cozy-lowpoly",
+  "lead_space": "meadow",
+  "selected_image": "art/shared/selected-concept.png",
+  "selected_image_sha256": "3b8384a1ac5818a76ee0314ca5f6e555d2e1a0cb4d0e98e027f503a7a1ecf945",
+  "user_text": "采用Sub2API 技能包生成的概念图，其他场景的概念图也用Sub2API 技能包生成，继续下一步",
+  "source_ref": "current-user-message-select-sub2api-and-request-other-biomes",
+  "selection_scope": "H1 meadow art direction and common style; upcoming other-region images not individually accepted",
+  "recorded_at": "2026-10-22T04:14:41.241848+00:00",
+  "provider": "Sub2API",
+  "model": "gpt-image-2.5-flare",
+  "global_spaces": [
+    "meadow",
+    "forest",
+    "salt",
+    "autumn",
+    "stars"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": "0.9.1-baseline",
+  "status": "current-version-complete-pending-user-art-review",
+  "files": [
+    {
+      "path": "WanderGarden-v0.9.1-windows.zip",
+      "bytes": 314790571,
+      "sha256": "42ff43a99a84ab8375e92e8744f0220b119f02db356ab2dd5cda65c33ed05a15",
+      "crc": "pass"
+    },
+    {
+      "path": "WanderGarden-v0.9.1-web.zip",
+      "bytes": 106399587,
+      "sha256": "029ae49f747db7bdcddeca939909174258e2bfeb39f151e101cb96fdca3a38e3",
+      "crc": "pass"
+    },
+    {
+      "path": "WanderGarden-v0.9.1-model.zip",
+      "bytes": 8291824,
+      "sha256": "199cf0ffb1d31ed54a38981f2cea0e534ffa32be84282af14ebe09b24e5ebf3c",
+      "crc": "pass"
+    }
+  ]
+}

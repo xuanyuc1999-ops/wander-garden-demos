@@ -1,0 +1,1190 @@
+{
+  "checks": [
+    {
+      "details": "",
+      "name": "enter_starts_normal_entry",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "player_selects_fast_growth",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "empty_harvest_cannot_unlock_gate",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "locked_gate_blocks_walk",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "local_seed_pickup_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "cultivate_region_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "overlap_rejected_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "sow_0_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_crop_pauses_0_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "water_0_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "four_stage_growth_0_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "harvest_inventory_0_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "sow_0_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_crop_pauses_0_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "water_0_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "four_stage_growth_0_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "harvest_inventory_0_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pet_affection_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pet_follow_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "single_companion_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "gate_unlock_0",
+      "pass": true
+    },
+    {
+      "details": 1.63024735450745,
+      "name": "companion_crosses_connector_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "walk_into_region_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "local_seed_pickup_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "cultivate_region_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "overlap_rejected_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "sow_1_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_crop_pauses_1_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "water_1_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "four_stage_growth_1_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "harvest_inventory_1_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "sow_1_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_crop_pauses_1_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "water_1_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "four_stage_growth_1_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "harvest_inventory_1_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pet_affection_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pet_follow_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "single_companion_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "gate_unlock_1",
+      "pass": true
+    },
+    {
+      "details": 1.64131808280945,
+      "name": "companion_crosses_connector_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "walk_into_region_2",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "local_seed_pickup_2",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "cultivate_region_2",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "overlap_rejected_2",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "sow_2_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_crop_pauses_2_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "water_2_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "four_stage_growth_2_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "harvest_inventory_2_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "sow_2_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_crop_pauses_2_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "water_2_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "four_stage_growth_2_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "harvest_inventory_2_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pet_affection_2",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pet_follow_2",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "single_companion_2",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "gate_unlock_2",
+      "pass": true
+    },
+    {
+      "details": 1.62350881099701,
+      "name": "companion_crosses_connector_2",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "walk_into_region_3",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "local_seed_pickup_3",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "cultivate_region_3",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "overlap_rejected_3",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "sow_3_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_crop_pauses_3_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "water_3_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "four_stage_growth_3_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "harvest_inventory_3_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "sow_3_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_crop_pauses_3_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "water_3_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "four_stage_growth_3_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "harvest_inventory_3_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pet_affection_3",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pet_follow_3",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "single_companion_3",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "gate_unlock_3",
+      "pass": true
+    },
+    {
+      "details": 1.614874958992,
+      "name": "companion_crosses_connector_3",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "walk_into_region_4",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "local_seed_pickup_4",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "cultivate_region_4",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "overlap_rejected_4",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "sow_4_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_crop_pauses_4_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "water_4_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "four_stage_growth_4_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "harvest_inventory_4_0",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "sow_4_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_crop_pauses_4_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "water_4_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "four_stage_growth_4_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "harvest_inventory_4_1",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pet_affection_4",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pet_follow_4",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "single_companion_4",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "star_resting_landmark_collision",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "five_minute_idle_no_loss",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "star_valley_permanent_night",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "return_walk_across_all_five_regions",
+      "pass": true
+    },
+    {
+      "details": {
+        "collisions": [
+          {
+            "body": "/root/WanderGardenArtPreview/@Node3D@4/meadow/@StaticBody3D@6",
+            "body_position": "(0.0, -0.35, 0.0)",
+            "normal": "(0.0, 1.0, 0.0)",
+            "point": "(-17.00906, 0.0, 8.621258)"
+          }
+        ],
+        "following": true,
+        "next": "(-17.01279, 0.0, 7.750052)",
+        "pet": "(-17.00906, -0.039147, 8.621258)",
+        "player": "(-17.01279, 0.000839, 7.012554)",
+        "trail": 3,
+        "velocity": "(0.0, 0.0, 0.0)"
+      },
+      "name": "companion_follows_around_hut",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "camera_full_orbit_near_solid_hut",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "procedural_terrain_supports_player",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "chunk_3x3_budget",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "procedural_resource_collect",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "peripheral_planting_supported",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "distant_chunk_actually_unloaded",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "planted_state_survives_unload",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "terrain_reloads_deterministically",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "dry_peripheral_crop_survives_trip",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "resource_cooldown_survives_reload",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "peripheral_growth_after_reload",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "peripheral_canyon_prevents_gate_bypass",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pause_stops_clock",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "pause_resume_input",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "save_json_restore_roundtrip",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "resource_cooldown_in_save",
+      "pass": true
+    },
+    {
+      "details": {
+        "chunk_size_m": 32,
+        "generated": 153,
+        "loaded": 9,
+        "peak_chunks": 9,
+        "peak_work_us": 7361,
+        "pickups": 6,
+        "queued": 0,
+        "radius": 1,
+        "unloaded": 138
+      },
+      "name": "chunk_lifecycle_bounded",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "journal_five_crops_five_pets",
+      "pass": true
+    },
+    {
+      "details": "",
+      "name": "inventory_nonnegative",
+      "pass": true
+    }
+  ],
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "events": [
+    {
+      "details": {},
+      "time": 0.0,
+      "type": "begin"
+    },
+    {
+      "details": {
+        "region": 0
+      },
+      "time": 18.0749999999996,
+      "type": "seed_pickup"
+    },
+    {
+      "details": {
+        "region": 0,
+        "x": -4.035484790802,
+        "z": -4.89711618423462
+      },
+      "time": 19.8916666666662,
+      "type": "cultivate"
+    },
+    {
+      "details": {
+        "crop": 0
+      },
+      "time": 19.9249999999995,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 0
+      },
+      "time": 20.5333333333328,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 0
+      },
+      "time": 32.8499999999988,
+      "type": "harvest"
+    },
+    {
+      "details": {
+        "crop": 0
+      },
+      "time": 32.8666666666654,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 0
+      },
+      "time": 33.4749999999987,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 0
+      },
+      "time": 45.7916666666647,
+      "type": "harvest"
+    },
+    {
+      "details": {
+        "affection": 50,
+        "pet": 0
+      },
+      "time": 51.8416666666644,
+      "type": "feed"
+    },
+    {
+      "details": {
+        "affection": 100,
+        "pet": 0
+      },
+      "time": 54.0166666666642,
+      "type": "feed"
+    },
+    {
+      "details": {
+        "pet": 0
+      },
+      "time": 54.0166666666642,
+      "type": "companion"
+    },
+    {
+      "details": {
+        "gate": 0
+      },
+      "time": 62.5416666666638,
+      "type": "gate_unlock"
+    },
+    {
+      "details": {
+        "region": 1
+      },
+      "time": 63.3583333333304,
+      "type": "region"
+    },
+    {
+      "details": {
+        "region": 1
+      },
+      "time": 73.8250000000048,
+      "type": "seed_pickup"
+    },
+    {
+      "details": {
+        "region": 1,
+        "x": -4.03410053253174,
+        "z": -76.888786315918
+      },
+      "time": 75.6416666666729,
+      "type": "cultivate"
+    },
+    {
+      "details": {
+        "crop": 1
+      },
+      "time": 75.6750000000063,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 1
+      },
+      "time": 76.2833333333401,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 1
+      },
+      "time": 88.6000000000166,
+      "type": "harvest"
+    },
+    {
+      "details": {
+        "crop": 1
+      },
+      "time": 88.6166666666833,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 1
+      },
+      "time": 89.2250000000171,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 1
+      },
+      "time": 101.541666666694,
+      "type": "harvest"
+    },
+    {
+      "details": {
+        "affection": 50,
+        "pet": 1
+      },
+      "time": 106.408333333364,
+      "type": "feed"
+    },
+    {
+      "details": {
+        "affection": 100,
+        "pet": 1
+      },
+      "time": 108.583333333366,
+      "type": "feed"
+    },
+    {
+      "details": {
+        "pet": 1
+      },
+      "time": 108.583333333366,
+      "type": "companion"
+    },
+    {
+      "details": {
+        "gate": 1
+      },
+      "time": 117.391666666706,
+      "type": "gate_unlock"
+    },
+    {
+      "details": {
+        "region": 2
+      },
+      "time": 118.208333333373,
+      "type": "region"
+    },
+    {
+      "details": {
+        "region": 2
+      },
+      "time": 128.675000000047,
+      "type": "seed_pickup"
+    },
+    {
+      "details": {
+        "region": 2,
+        "x": -4.0336971282959,
+        "z": -148.886932373047
+      },
+      "time": 130.491666666712,
+      "type": "cultivate"
+    },
+    {
+      "details": {
+        "crop": 2
+      },
+      "time": 130.525000000046,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 2
+      },
+      "time": 131.133333333378,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 2
+      },
+      "time": 143.450000000034,
+      "type": "harvest"
+    },
+    {
+      "details": {
+        "crop": 2
+      },
+      "time": 143.466666666701,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 2
+      },
+      "time": 144.075000000033,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 2
+      },
+      "time": 156.391666666689,
+      "type": "harvest"
+    },
+    {
+      "details": {
+        "affection": 50,
+        "pet": 2
+      },
+      "time": 158.608333333353,
+      "type": "feed"
+    },
+    {
+      "details": {
+        "affection": 100,
+        "pet": 2
+      },
+      "time": 160.783333333351,
+      "type": "feed"
+    },
+    {
+      "details": {
+        "pet": 2
+      },
+      "time": 160.783333333351,
+      "type": "companion"
+    },
+    {
+      "details": {
+        "gate": 2
+      },
+      "time": 169.341666666677,
+      "type": "gate_unlock"
+    },
+    {
+      "details": {
+        "region": 3
+      },
+      "time": 170.158333333343,
+      "type": "region"
+    },
+    {
+      "details": {
+        "region": 3
+      },
+      "time": 180.608333333333,
+      "type": "seed_pickup"
+    },
+    {
+      "details": {
+        "region": 3,
+        "x": -4.03466463088989,
+        "z": -220.898559570313
+      },
+      "time": 182.424999999998,
+      "type": "cultivate"
+    },
+    {
+      "details": {
+        "crop": 3
+      },
+      "time": 182.458333333332,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 3
+      },
+      "time": 183.066666666665,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 3
+      },
+      "time": 195.38333333332,
+      "type": "harvest"
+    },
+    {
+      "details": {
+        "crop": 3
+      },
+      "time": 195.399999999987,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 3
+      },
+      "time": 196.008333333319,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 3
+      },
+      "time": 208.324999999975,
+      "type": "harvest"
+    },
+    {
+      "details": {
+        "affection": 50,
+        "pet": 3
+      },
+      "time": 210.641666666639,
+      "type": "feed"
+    },
+    {
+      "details": {
+        "affection": 100,
+        "pet": 3
+      },
+      "time": 212.816666666637,
+      "type": "feed"
+    },
+    {
+      "details": {
+        "pet": 3
+      },
+      "time": 212.816666666637,
+      "type": "companion"
+    },
+    {
+      "details": {
+        "gate": 3
+      },
+      "time": 221.574999999963,
+      "type": "gate_unlock"
+    },
+    {
+      "details": {
+        "region": 4
+      },
+      "time": 222.391666666629,
+      "type": "region"
+    },
+    {
+      "details": {
+        "region": 4
+      },
+      "time": 232.858333333286,
+      "type": "seed_pickup"
+    },
+    {
+      "details": {
+        "region": 4,
+        "x": -4.03458261489868,
+        "z": -292.891265869141
+      },
+      "time": 234.674999999951,
+      "type": "cultivate"
+    },
+    {
+      "details": {
+        "crop": 4
+      },
+      "time": 234.708333333284,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 4
+      },
+      "time": 235.316666666617,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 4
+      },
+      "time": 247.633333333272,
+      "type": "harvest"
+    },
+    {
+      "details": {
+        "crop": 4
+      },
+      "time": 247.649999999939,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 4
+      },
+      "time": 248.258333333272,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 4
+      },
+      "time": 260.574999999927,
+      "type": "harvest"
+    },
+    {
+      "details": {
+        "affection": 50,
+        "pet": 4
+      },
+      "time": 262.991666666592,
+      "type": "feed"
+    },
+    {
+      "details": {
+        "affection": 100,
+        "pet": 4
+      },
+      "time": 265.16666666659,
+      "type": "feed"
+    },
+    {
+      "details": {
+        "pet": 4
+      },
+      "time": 265.16666666659,
+      "type": "companion"
+    },
+    {
+      "details": {
+        "region": 3
+      },
+      "time": 585.541666666299,
+      "type": "region"
+    },
+    {
+      "details": {
+        "region": 2
+      },
+      "time": 599.274999999619,
+      "type": "region"
+    },
+    {
+      "details": {
+        "region": 1
+      },
+      "time": 613.00833333294,
+      "type": "region"
+    },
+    {
+      "details": {
+        "region": 0
+      },
+      "time": 626.741666666261,
+      "type": "region"
+    },
+    {
+      "details": {
+        "id": "348802:1:-1",
+        "region": 0
+      },
+      "time": 665.858333332892,
+      "type": "wild_pickup"
+    },
+    {
+      "details": {
+        "region": 0,
+        "x": 48.0198135375977,
+        "z": -8.06893920898438
+      },
+      "time": 665.891666666225,
+      "type": "cultivate"
+    },
+    {
+      "details": {
+        "crop": 0
+      },
+      "time": 665.908333332892,
+      "type": "sow"
+    },
+    {
+      "details": {
+        "crop": 0
+      },
+      "time": 685.774999999541,
+      "type": "water"
+    },
+    {
+      "details": {
+        "count": 3,
+        "crop": 0
+      },
+      "time": 698.091666666196,
+      "type": "harvest"
+    }
+  ],
+  "failures": 0,
+  "injected_state": false,
+  "mode": "engine_input_playthrough",
+  "simulated_seconds": 702.358333332859,
+  "time_basis": "simulation seconds, not benchmark"
+}

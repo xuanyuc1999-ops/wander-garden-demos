@@ -1,0 +1,48 @@
+{
+  "invocation": {
+    "id": "stone-arch-sub2api-2026-10-22T06:56:35.244730+00:00",
+    "inputs": [
+      {
+        "root": "project",
+        "path": "art/shared/selected-concept.png",
+        "sha256": "3b8384a1ac5818a76ee0314ca5f6e555d2e1a0cb4d0e98e027f503a7a1ecf945"
+      },
+      {
+        "root": "project",
+        "path": "art/references/stone-arch-white-v1.png",
+        "sha256": "913b9bc2ccd8ba0221b67d12f397ea298b15fb8e043c4e27ceaa151c88e953c6"
+      }
+    ],
+    "output": {
+      "root": "project",
+      "path": "art/references/stone-arch-v2.png",
+      "sha256": "13e9c2f8b0118670fe8ec1c4f7d16d5bd2f47305b437b09cbb27c0d04c462b2f"
+    },
+    "provider": "Sub2API",
+    "model": "gpt-image-2.5-flare",
+    "receipt_source": "C:\\Users\\01\\Documents\\ChatGPT\\New project\\wander-garden-workflow\\meadow-production\\references\\stone-arch-repair-attempt.json",
+    "source_output_sha256": "13e9c2f8b0118670fe8ec1c4f7d16d5bd2f47305b437b09cbb27c0d04c462b2f"
+  },
+  "derivation": {
+    "method": "Pillow alpha_composite over opaque white then80px white border; no threshold extraction, stretch, crop or content repair",
+    "source": {
+      "root": "project",
+      "path": "art/references/stone-arch-v2.png",
+      "sha256": "13e9c2f8b0118670fe8ec1c4f7d16d5bd2f47305b437b09cbb27c0d04c462b2f"
+    },
+    "output": {
+      "root": "project",
+      "path": "art/references/stone-arch-model-v2.png",
+      "sha256": "5ffea93f270f20c842f7d4bf8973c49c394588fb8b8f17a7abfb1aa79331fa84"
+    },
+    "padding_pixels": 80,
+    "source_size": [
+      1254,
+      1254
+    ],
+    "output_size": [
+      1414,
+      1414
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "invocation": {
+    "id": "rock-cluster-sub2api-2026-10-22T06:37:16.333508+00:00",
+    "inputs": [
+      {
+        "root": "project",
+        "path": "art/shared/selected-concept.png",
+        "sha256": "3b8384a1ac5818a76ee0314ca5f6e555d2e1a0cb4d0e98e027f503a7a1ecf945"
+      }
+    ],
+    "output": {
+      "root": "project",
+      "path": "art/references/rock-cluster-v1.png",
+      "sha256": "becc2cb9da439c0815dfe363fc6b889c0f6d854a3689a1a589f485c255697100"
+    },
+    "provider": "Sub2API",
+    "model": "gpt-image-2.5-flare",
+    "receipt_source": "C:\\Users\\01\\Documents\\ChatGPT\\New project\\wander-garden-workflow\\meadow-production\\references\\rock-cluster-attempt.json",
+    "source_output_sha256": "becc2cb9da439c0815dfe363fc6b889c0f6d854a3689a1a589f485c255697100"
+  },
+  "derivation": {
+    "method": "Pillow alpha_composite over opaque white then80px white border; no threshold extraction, stretch, crop or content repair",
+    "source": {
+      "root": "project",
+      "path": "art/references/rock-cluster-v1.png",
+      "sha256": "becc2cb9da439c0815dfe363fc6b889c0f6d854a3689a1a589f485c255697100"
+    },
+    "output": {
+      "root": "project",
+      "path": "art/references/rock-cluster-model-v1.png",
+      "sha256": "7ff7030b0a68b3ea4f17e29c485ba1301732d0cb15fc33554ee9bc2329e1d5be"
+    },
+    "padding_pixels": 80,
+    "source_size": [
+      1536,
+      1024
+    ],
+    "output_size": [
+      1696,
+      1184
+    ]
+  }
+}
